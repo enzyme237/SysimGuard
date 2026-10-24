@@ -13,3 +13,15 @@
 .externalNativeBuild
 .cxx
 local.properties
+
+# Données et échantillons : ne jamais versionner
+*.csv
+*.zip
+*.apk
+.ipynb_checkpoints/
+
+# Données et échantillons : ne jamais versionner
+*.csv
+*.zip
+*.apk
+.ipynb_checkpoints/
